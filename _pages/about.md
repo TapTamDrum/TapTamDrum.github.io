@@ -2,25 +2,69 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p></p>
+    <p></p>
+    <p></p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+————————————————————————————————————————————————————————————————————————
+### Supplementary Documents
+————————————————————————————————————————————————————————————————————————
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+#### 1. Website with Piano-rolls and Audio Files
+	
+a. Website: [https://taptamdrum.github.io/](https://taptamdrum.github.io/)
+
+b. PianoRoll and Audio Files can be found at  
+
+[https://taptamdrum.github.io/explore/](https://taptamdrum.github.io/explore/) 
+
+Please note, the piano rolls and audios take some time to be loaded in the website. 
+
+
+If you have any issues, you can access the raw files here as well: 
+
+[https://github.com/TapTamDrum/TapTamDrum.github.io/tree/master/_projects/assets](https://github.com/TapTamDrum/TapTamDrum.github.io/tree/master/_projects/assets)
+				
+		
+#### 2. The dataset, API and Tutorial Notebooks are at:
+
+[https://github.com/TapTamDrum/dataset](https://github.com/TapTamDrum/dataset)
+
+a. API at [https://github.com/TapTamDrum/dataset/blob/main/API.py](https://github.com/TapTamDrum/dataset/blob/main/API.py)	
+
+b. Tutorial on using the API: 
+
+[https://github.com/TapTamDrum/dataset/blob/main/API_Tutorial.ipynb](https://github.com/TapTamDrum/dataset/blob/main/API_Tutorial.ipynb),
+
+A pdf version of the API tutorial notebook is also available at 
+
+[https://github.com/TapTamDrum/dataset/blob/main/API_Tutorial.pdf](https://github.com/TapTamDrum/dataset/blob/main/API_Tutorial.pdf). 
+
+NOTE: make sure you click on “show more pages” if you view the pdf on GitHub.
+
+c. Organized Midi Files of Dualizations are at 
+
+[https://github.com/TapTamDrum/dataset/tree/main/midi_files](https://github.com/TapTamDrum/dataset/tree/main/midi_files) (Also, available in the supplementary documents on the submission portal)
+	
+
+
+————————————————————————————————————————————————————————————————————————
+### You can also Bulk download all supplementary documents/data from the following link (size: Uncompressed: 1.27 GB, Compressed: 754 GB): 
+————————————————————————————————————————————————————————————————————————
+
+#### Link Not Available on Website, Refer to the SupplementaryLinks.pdf in the submission portal
