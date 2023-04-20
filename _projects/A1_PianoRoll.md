@@ -1,8 +1,8 @@
 ---
 layout: page
 title: A1 Piano Rolls 
-description: 
-img: assets/img/12.jpg
+description: Three Random Repetitions, P1-P4
+img: 
 importance: 1
 category: PianoRolls
 ---

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: B1 Piano Rolls 
-description: 
-img: assets/img/12.jpg
+description: Simple/Complex, P1-P2
+img: 
 importance: 1
 category: PianoRolls
 ---

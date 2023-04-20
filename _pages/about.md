@@ -18,29 +18,29 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+<br><br><br><br><br><br>
 
-
-————————————————————————————————————————————————————————————————————————
+<hr width="50%" color="green" size="50px" align="left" />
 ### Supplementary Documents
-————————————————————————————————————————————————————————————————————————
+<br><br>
+<hr width="50%" color="green" size="50px" align="left" />
+#### 1. Piano-rolls and Audio Files
 
-
-#### 1. Website with Piano-rolls and Audio Files
+Go to `EXPLORE` tab:
 	
-a. Website: [https://taptamdrum.github.io/](https://taptamdrum.github.io/)
+##### [https://taptamdrum.github.io/explore/](https://taptamdrum.github.io/explore/)
+	
 
-b. PianoRoll and Audio Files can be found at  
-
-[https://taptamdrum.github.io/explore/](https://taptamdrum.github.io/explore/) 
-
-Please note, the piano rolls and audios take some time to be loaded in the website. 
-
+	Please note, the piano rolls and audios take some time to be loaded in the website. 
+	
+<br><br><br><br>
 
 If you have any issues, you can access the raw files here as well: 
 
 [https://github.com/TapTamDrum/TapTamDrum.github.io/tree/master/_projects/assets](https://github.com/TapTamDrum/TapTamDrum.github.io/tree/master/_projects/assets)
-				
-		
+
+<br><br>
+<hr width="50%" color="green" size="50px" align="left" />	
 #### 2. The dataset, API and Tutorial Notebooks are at:
 
 [https://github.com/TapTamDrum/dataset](https://github.com/TapTamDrum/dataset)
@@ -62,9 +62,10 @@ c. Organized Midi Files of Dualizations are at
 [https://github.com/TapTamDrum/dataset/tree/main/midi_files](https://github.com/TapTamDrum/dataset/tree/main/midi_files) (Also, available in the supplementary documents on the submission portal)
 	
 
+<br><br>
+<hr width="50%" color="green" size="50px" align="left" />
+	You can also Bulk download all supplementary documents/data from the following link (size: Uncompressed: 1.27 GB, Compressed: 754 GB): 
+	 Link Not Available on Website, Refer to the SupplementaryLinks.pdf in the submission portal
+<hr width="50%" color="green" size="50px" align="left" />
 
-————————————————————————————————————————————————————————————————————————
-### You can also Bulk download all supplementary documents/data from the following link (size: Uncompressed: 1.27 GB, Compressed: 754 GB): 
-————————————————————————————————————————————————————————————————————————
 
-#### Link Not Available on Website, Refer to the SupplementaryLinks.pdf in the submission portal
