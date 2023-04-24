@@ -22,7 +22,7 @@ category: PianoRolls
    
 ----
 
-# A1 Piano Rolls (Simple Vs. Complex Repetitions with Two Participants)
+# B1 Piano Rolls (Simple Vs. Complex Repetitions with Two Participants)
 
 ----
 
